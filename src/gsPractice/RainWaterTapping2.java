@@ -23,9 +23,6 @@ public class RainWaterTapping2 {
 
             result += Math.min(left, right) - integers.get(i);
         }
-
         System.out.println(result);
-
-
     }
 }
