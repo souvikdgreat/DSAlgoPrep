@@ -11,6 +11,6 @@ public class AtoI {
         }
 
         System.out.println(res);
-        System.out.println("version 3");
+        System.out.println("feature 1");
     }
 }
